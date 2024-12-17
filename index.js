@@ -1,1 +1,0 @@
-let Trithay = 19;
